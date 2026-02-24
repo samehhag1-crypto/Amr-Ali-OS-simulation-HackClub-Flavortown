@@ -15,7 +15,7 @@ AMR-OS 4.0 Teen Edition is a terminal operating system that simulates a digital 
 
 Important:
 To run the program upload the 2 files to your IDE separately and then run the main_program.py file
-
+If you are running demo in replit, go to console to view
 
 
 
