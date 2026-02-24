@@ -14,13 +14,15 @@ AMR-OS 4.0 Teen Edition is a terminal operating system that simulates a digital 
 
 
 Important:
+-
 To run the program upload the 2 files to your IDE separately and then run the main_program.py file
+
 If you are running demo in replit, go to console to view
 
 
 
-- 🎮 REPL Commands
-
+🎮 REPL Commands
+-
 train – Run one training step.
 
 wealth – Simulate a trade.
@@ -42,11 +44,8 @@ status – Show emotions, growth, and wealth.
 exit – Quit AMR-OS.
 
 
-
-
-
 Example script:
-
+-
 amr-os> script
 
 push 10
