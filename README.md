@@ -13,6 +13,9 @@ AMR-OS 4.0 Teen Edition is a terminal operating system that simulates a digital 
 - 📝 **StackVM Scripts:** Run tiny programs to control the system or test ideas.
 
 
+Important:
+To run the program upload the 2 files to your IDE separately and then run the main_program.py file
+
 
 
 
