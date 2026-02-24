@@ -45,8 +45,13 @@ exit – Quit AMR-OS.
 Example script:
 
 amr-os> script
+
 push 10
+
 push 5
+
 add
+
 print
+
 END
