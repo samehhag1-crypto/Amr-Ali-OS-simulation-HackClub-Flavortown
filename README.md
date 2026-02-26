@@ -19,6 +19,7 @@ To run the program upload the 2 files to your IDE separately and then run the ma
 
 If you are running demo in replit, go to console to view
 
+You can also go to releases to easily run the executable file
 
 
 REPL Commands
