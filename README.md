@@ -1,3 +1,5 @@
+# Important: Zoom out to view all of the read me
+
 # Amr-Ali-OS-simulation-HackClub-Flavortown
 AMR-OS 4.0 Teen Edition is a terminal operating system that simulates a digital world with agents, an economy, emotions, and growth systems that all depend on each other. It has missions, random events, a memory system, a scripting virtual machine, and a live dashboard.
 
@@ -44,9 +46,32 @@ status – Show emotions, growth, and wealth.
 
 exit – Quit AMR-OS.
 
-
-Example script:
+Example run to test everything
 -
+amr-os> status
+
+amr-os> train
+
+amr-os> train
+
+amr-os> train
+
+amr-os> wealth
+
+amr-os> status
+
+amr-os> goal Become super intelligent
+
+amr-os> goal Reach 5000 wealth
+
+amr-os> nextgoal
+
+amr-os> remember I am building an AI OS
+
+amr-os> remember Agents evolve over time
+
+amr-os> recall evolve
+
 amr-os> script
 
 push 10
@@ -58,3 +83,19 @@ add
 print
 
 END
+
+amr-os> script
+
+push 8
+
+push 2
+
+mul
+
+print
+
+END
+
+amr-os> status
+
+amr-os> dashboard
